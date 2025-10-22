@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "524ea30279620e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cf32acc69011daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1ba3fe0c04c06c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Senior Research Capstone Deliverables Schedule.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Senior Research Capstone Deliverables Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc2ea6afae8ea030",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9f294f1276d4af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e76f29e7783b65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f990b593d5a2bd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4115420888f73b1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00e7f9dc70867f28",
+    "type": "split",
+    "children": [
+      {
+        "id": "6401b36872244e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f6a891ea15a04f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Senior Research Capstone Deliverables Schedule.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Senior Research Capstone Deliverables Schedule"
+            }
+          },
+          {
+            "id": "90d6b4503c1cbde9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Senior Research Capstone Deliverables Schedule.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Senior Research Capstone Deliverables Schedule"
+            }
+          },
+          {
+            "id": "0c615fa8c5fd9b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20ea50e3506e0bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Senior Research Capstone Deliverables Schedule.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Senior Research Capstone Deliverables Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "df1ba3fe0c04c06c",
+  "lastOpenFiles": []
+}
