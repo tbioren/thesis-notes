@@ -11,12 +11,14 @@
             "id": "df1ba3fe0c04c06c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Senior Research Capstone Deliverables Schedule.pdf"
+                "file": "research-papers/Clune et al/Clune et al.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Senior Research Capstone Deliverables Schedule"
+              "icon": "lucide-file",
+              "title": "Clune et al"
             }
           }
         ]
@@ -168,5 +170,14 @@
     }
   },
   "active": "df1ba3fe0c04c06c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "CGP_Paper.pdf",
+    "research-papers/Evolutionary Algorithm with Advanced Goal Priority/live-842-1969-jair.pdf",
+    "research-papers/Coevolutionary Cartesian Genetic Programming in FPGA/coevolutionary-cgp.pdf",
+    "research-papers/Clune et al/Clune et al.md",
+    "research-papers/Julian Miller - Tutorial CGP/Julian Miller - Tutorial CGP.md",
+    "References.md",
+    "research-papers/Clune et al/getPDF.jsp.pdf.sb-3eab5db0-XVci40",
+    "Senior Research Capstone Deliverables Schedule.pdf"
+  ]
 }
